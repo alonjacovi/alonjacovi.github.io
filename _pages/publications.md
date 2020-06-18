@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Preprints
+# Preprints
 
 
 ### *Aligning Faithful Interpretations with their Social Attribution.*
@@ -37,7 +37,7 @@ A behavioral, causality-inspired analysis of the linguistic knowledge utilized b
 We apply state-of-the-art PU learning solutions to large neural models for the document set expansion (DSE) task, finding that they fail - so we propose modifications to PU learning to perform well on large models and small quantity of labeled data, with strong results. We also propose a new method of evaluation DSE models, which is scalable to a large amount of topics. 
 
 
-## Publications
+# Publications
  
 ### *Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?*
 <ins>Alon Jacovi</ins>, Yoav Goldberg.  
