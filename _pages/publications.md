@@ -17,12 +17,12 @@ author_profile: true
 
 ## Preprints
 
-Aligning Faithful Interpretations with their Social Attribution\
-*Alon Jacovi*, Yoav Goldberg.\
+Aligning Faithful Interpretations with their Social Attribution  \  
+*Alon Jacovi*, Yoav Goldberg.  \  
 [ArXiv](https://arxiv.org/abs/2006.01067)
  
 When Bert Forgets How To POS: Amnesic Probing of Linguistic Properties and MLM Predictions\
-% Yanai Elazar, Shauli Ravfogel, *Alon Jacovi*, Yoav Goldberg.\
+Yanai Elazar, Shauli Ravfogel, *Alon Jacovi*, Yoav Goldberg.\
 [ArXiv](https://arxiv.org/abs/2006.00995)
 
 Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning\
