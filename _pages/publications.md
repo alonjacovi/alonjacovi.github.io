@@ -18,19 +18,19 @@ author_profile: true
 ## Preprints
 
 
-#### *Aligning Faithful Interpretations with their Social Attribution.*
+### *Aligning Faithful Interpretations with their Social Attribution.*
 **Alon Jacovi**, Yoav Goldberg.  
 [ArXiv](https://arxiv.org/abs/2006.01067)
 
 We present a new formalization on explanations of artificial model decisions, with highlight explanations as a motivating case-study.
  
-#### *When Bert Forgets How To POS: Amnesic Probing of Linguistic Properties and MLM Predictions*
+### *When Bert Forgets How To POS: Amnesic Probing of Linguistic Properties and MLM Predictions*
 Yanai Elazar, Shauli Ravfogel, **Alon Jacovi**, Yoav Goldberg.  
 [ArXiv](https://arxiv.org/abs/2006.00995)
 
 A behavioral, causality-inspired analysis of the linguistic knowledge utilized by masked language models, using nullspace projection to remove the information from the representation and then observe the change in output. 
 
-#### *Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning*
+### *Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning*
 **Alon Jacovi**, Gang Niu, Yoav Goldberg, Masashi Sugiyama.  
 [ArXiv](https://arxiv.org/abs/1910.13339)
 
@@ -46,9 +46,9 @@ We apply state-of-the-art PU learning solutions to large neural models for the d
 In ACL 2020.  
 [ArXiv](https://arxiv.org/abs/2004.03685)
 
-We survey 
+We survey the available literature, and present a position, on the faithfulness attribute of artificial model interpretations. This involves guidelines on faithfulness evaluation, a survey and meta-analysis of works in the area, and an opinion on what is missing in current work and how to move forward.
 
-\textbf{Neural network gradient-based learning of black-box function interfaces} \\ \underline{Alon Jacovi}, Guy Hadash, Einat Kermany, Boaz Carmeli, Ofer Lavi, George Kour, Jonathan Berant. \\ In ICLR 2019. \\ Also in AI Week 2019.
+Neural network gradient-based learning of black-box function interfaces} \\ \underline{Alon Jacovi}, Guy Hadash, Einat Kermany, Boaz Carmeli, Ofer Lavi, George Kour, Jonathan Berant. \\ In ICLR 2019. \\ Also in AI Week 2019.
 
 \textit{(Extended Abstract)} \textbf{Learning and Understanding Different Categories of Sexism Using Convolutional Neural Network Filters} \\ Sima Sharifirad, \underline{Alon Jacovi}, Stan Matwin. \\ In the Widening NLP workshop at ACL 2019.
 
