@@ -19,7 +19,7 @@ author_profile: true
 
 
 ### *Aligning Faithful Interpretations with their Social Attribution.*
-**Alon Jacovi**, Yoav Goldberg.  
+<ins>Alon Jacovi</ins>, Yoav Goldberg.  
 [ArXiv](https://arxiv.org/abs/2006.01067)
 
 We present a new formalization on explanations of artificial model decisions, with highlight explanations as a motivating case-study.
@@ -41,16 +41,25 @@ We apply state-of-the-art PU learning solutions to large neural models for the d
 
 <!--- 
  
-*Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?*  
+### *Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?*
 **Alon Jacovi**, Yoav Goldberg.  
 In ACL 2020.  
 [ArXiv](https://arxiv.org/abs/2004.03685)
 
 We survey the available literature, and present a position, on the faithfulness attribute of artificial model interpretations. This involves guidelines on faithfulness evaluation, a survey and meta-analysis of works in the area, and an opinion on what is missing in current work and how to move forward.
 
-Neural network gradient-based learning of black-box function interfaces} \\ \underline{Alon Jacovi}, Guy Hadash, Einat Kermany, Boaz Carmeli, Ofer Lavi, George Kour, Jonathan Berant. \\ In ICLR 2019. \\ Also in AI Week 2019.
+### *Neural network gradient-based learning of black-box function interfaces*
+**Alon Jacovi**, Guy Hadash, Einat Kermany, Boaz Carmeli, Ofer Lavi, George Kour, Jonathan Berant.  
+In ICLR 2019 and in AI Week 2019.
+[ArXiv](https://arxiv.org/abs/1901.03995)
+
+We propose a modular neural framework for integrating black-box (non-differentiable) oracle functions into the neural model, such that the new model can interface directly with the black-box function during inference.
+
+
+\textbf{Understanding Convolutional Neural Networks for Text Classification} \\ \underline{Alon Jacovi}, Oren Sar Shalom, Yoav Goldberg. \\ In the BlackboxNLP workshop at EMNLP 2018 (oral presentation). \\ Also in ISCOL 2018 (oral presentation).
+
+## Extended Abstracts
 
 \textit{(Extended Abstract)} \textbf{Learning and Understanding Different Categories of Sexism Using Convolutional Neural Network Filters} \\ Sima Sharifirad, \underline{Alon Jacovi}, Stan Matwin. \\ In the Widening NLP workshop at ACL 2019.
 
-\textbf{Understanding Convolutional Neural Networks for Text Classification} \\ \underline{Alon Jacovi}, Oren Sar Shalom, Yoav Goldberg. \\ In the BlackboxNLP workshop at EMNLP 2018 (oral presentation). \\ Also in ISCOL 2018 (oral presentation).
  -->
