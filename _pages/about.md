@@ -14,8 +14,8 @@ My research interests are mainly in *explainable artificial intelligence* and *n
 
 ### Upcoming
 
-* I am presenting a [survey-position paper on faithful interpretability](https://arxiv.org/abs/2004.03685) soon at ACL in June 2020.
-* I will be interning at AI2, Seattle, as a research intern in October 2020.
+* I am presenting a [survey-position paper on faithful interpretability](https://arxiv.org/abs/2004.03685) soon at ACL in July 2020. Join my Q&A sessions July 7th!
+* I will be interning (remotely) at AI2's MOSAIC team, Seattle, as a research intern in Fall 2020 (October~January).
 
 ### News
 
