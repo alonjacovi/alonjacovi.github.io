@@ -56,7 +56,7 @@ We propose a modular neural framework for integrating black-box (non-differentia
 ### *Understanding Convolutional Neural Networks for Text Classification*
 <ins>Alon Jacovi</ins>, Oren Sar Shalom, Yoav Goldberg.  
 In the BlackboxNLP workshop at EMNLP 2018 (oral presentation). Also in ISCOL 2018 (oral presentation).  
-[ArXiv](https://arxiv.org/abs/1809.08037)
+[ArXiv](https://arxiv.org/abs/1809.08037) [Slides](https://alonjacovi.github.io/files/Understanding-CNNs-Text-BlackboxNLP2018.pdf)
 
 We analyze CNNs trained to classify text, arriving at various conclusions on the learned behavior of each of the filters in the network. This allows us to propose model interpretation and prediction interpretation techniques for such models.
 
