@@ -46,6 +46,13 @@ In ACL 2020.
 
 We survey the available literature, and present a position, on the faithfulness attribute of artificial model interpretations. This involves guidelines on faithfulness evaluation, a survey and meta-analysis of works in the area, and an opinion on what is missing in current work and how to move forward.
 
+### *Improving Task-Oriented Dialogue Systems In Production with Conversation Logs*
+<ins>Alon Jacovi</ins>*, Ori Bar El*, Ofer Lavi, David Boaz, David Amid, Inbal Ronen and Ateret Anaby-Tavor 
+In the KDD Converse workshop at KDD 2020.  
+[PDF](https://alonjacovi.github.io/files/Updating_Bots_from_Logs__KDD_Converse_2020_.pdf)
+
+When dialogue agents are deployed in production, their failure cases are escalated to a human agent to handle the issue. This escalated conversation log is often recorded to help the system developer to improve the system. We propose a way of using these logs, often available "for free" during production, to automatically generate system improvement recommendations to the developer.
+
 ### *Neural network gradient-based learning of black-box function interfaces*
 <ins>Alon Jacovi</ins>, Guy Hadash, Einat Kermany, Boaz Carmeli, Ofer Lavi, George Kour, Jonathan Berant.    
 In ICLR 2019 and in AI Week 2019.  
