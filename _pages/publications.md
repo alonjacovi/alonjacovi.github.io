@@ -47,7 +47,7 @@ In ACL 2020.
 We survey the available literature, and present a position, on the faithfulness attribute of artificial model interpretations. This involves guidelines on faithfulness evaluation, a survey and meta-analysis of works in the area, and an opinion on what is missing in current work and how to move forward.
 
 ### *Improving Task-Oriented Dialogue Systems In Production with Conversation Logs*
-<ins>Alon Jacovi</ins>*, Ori Bar El*, Ofer Lavi, David Boaz, David Amid, Inbal Ronen and Ateret Anaby-Tavor 
+<ins>Alon Jacovi</ins>*, Ori Bar El*, Ofer Lavi, David Boaz, David Amid, Inbal Ronen and Ateret Anaby-Tavor.  
 In the KDD Converse workshop at KDD 2020.  
 [PDF](https://alonjacovi.github.io/files/Updating_Bots_from_Logs__KDD_Converse_2020_.pdf)
 
