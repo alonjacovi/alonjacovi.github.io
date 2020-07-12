@@ -14,11 +14,11 @@ My research interests are mainly in *explainable artificial intelligence* and *n
 
 ### Upcoming
 
-* I am presenting a [survey-position paper on faithful interpretability](https://arxiv.org/abs/2004.03685) soon at ACL in July 2020. Join my Q&A sessions July 7th!
 * I will be interning (remotely) at AI2's MOSAIC team, Seattle, as a research intern in Fall 2020 (October~January).
 
 ### News
 
-* We've just uploaded two new preprints: [here](https://arxiv.org/abs/2006.01067) (useful and practical formalization of AI explanations) and [here](https://arxiv.org/abs/2006.00995) (behavioral analysis of the linguistic information utilized by MLM models).
+* [July 2020] I presented my [survey-position paper on faithful interpretability](https://arxiv.org/abs/2004.03685) at ACL 2020. 
+* [June 2020] We've just uploaded two new preprints: [here](https://arxiv.org/abs/2006.01067) (useful and practical formalization of AI explanations) and [here](https://arxiv.org/abs/2006.00995) (behavioral analysis of the linguistic information utilized by MLM models).
 
 
