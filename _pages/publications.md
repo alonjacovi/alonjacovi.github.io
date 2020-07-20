@@ -42,7 +42,7 @@ We apply state-of-the-art PU learning solutions to large neural models for the d
 ### *Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?*
 <ins>Alon Jacovi</ins>, Yoav Goldberg.  
 In ACL 2020.  
-[ArXiv](https://arxiv.org/abs/2004.03685) [Slides](https://alonjacovi.github.io/files/Faithfulness_ACL2020.pdf)
+[ArXiv](https://arxiv.org/abs/2004.03685) [Slides](https://alonjacovi.github.io/files/Faithfulness_ACL2020.pdf) [Video](https://slideslive.com/38929099/towards-faithfully-interpretable-nlp-systems-how-should-we-define-and-evaluate-faithfulness)
 
 We survey the available literature, and present a position, on the faithfulness attribute of artificial model interpretations. This involves guidelines on faithfulness evaluation, a survey and meta-analysis of works in the area, and an opinion on what is missing in current work and how to move forward.
 
