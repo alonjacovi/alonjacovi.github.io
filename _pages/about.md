@@ -14,6 +14,7 @@ My research interests are mainly in *explainable artificial intelligence* and *n
 
 ### Upcoming
 
+* I am presenting our paper on updating task-oriented dialogue systems using post-deployment escalation logs [video](https://www.youtube.com/watch?v=_4Crv-RZWpg) on August 24 at the [KDD Converse'20](https://conversekdd20.github.io/) workshop at KDD.
 * I will be interning (remotely) at AI2's MOSAIC team, Seattle, as a research intern in Fall 2020 (October~January).
 
 ### News
