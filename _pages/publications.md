@@ -49,7 +49,7 @@ We survey the available literature, and present a position, on the faithfulness 
 ### *Improving Task-Oriented Dialogue Systems In Production with Conversation Logs*
 <ins>Alon Jacovi</ins>\*, Ori Bar El\*, Ofer Lavi, David Boaz, David Amid, Inbal Ronen and Ateret Anaby-Tavor.  
 In the KDD Converse workshop at KDD 2020.  
-[PDF](https://alonjacovi.github.io/files/Updating_Bots_from_Logs__KDD_Converse_2020_.pdf)
+[PDF](https://alonjacovi.github.io/files/Updating_Bots_from_Logs__KDD_Converse_2020_.pdf) [Video](https://www.youtube.com/watch?v=_4Crv-RZWpg)
 
 When dialogue agents are deployed in production, their failure cases are escalated to a human agent to handle the issue. This escalated conversation log is often recorded to help the system developer to improve the system. We propose a way of using these logs, often available "for free" during production, to automatically generate system improvement recommendations to the developer.
 
