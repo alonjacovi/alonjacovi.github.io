@@ -18,6 +18,7 @@ My research interests are mainly in *explainable artificial intelligence* and *n
 
 ### News - 2020
 
+* September: Our paper on "Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data" was accepted to EMNLP 2020! Camera-ready coming soon.
 * August: I presented our paper on updating task-oriented dialogue systems using post-deployment escalation logs [(video)](https://www.youtube.com/watch?v=_4Crv-RZWpg) at the [KDD Converse](https://conversekdd20.github.io/) workshop, KDD 2020.
 * July: I presented my [survey-position paper on faithful interpretability](https://arxiv.org/abs/2004.03685) at ACL 2020. 
 * June: We've just uploaded two new preprints: [here](https://arxiv.org/abs/2006.01067) (useful and practical formalization of AI explanations) and [here](https://arxiv.org/abs/2006.00995) (behavioral analysis of the linguistic information utilized by MLM models).
