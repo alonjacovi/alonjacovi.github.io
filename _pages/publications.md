@@ -40,8 +40,8 @@ We apply state-of-the-art PU learning solutions to large neural models for the d
 # Publications
 
 ### *Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data*
-Shachar Rosenman, <ins>Alon Jacovi</ins>, Yoav Goldberg. 
-In EMNLP 2020.
+Shachar Rosenman, <ins>Alon Jacovi</ins>, Yoav Goldberg.   
+In EMNLP 2020.  
 [ArXiv] (https://arxiv.org/pdf/2010.03656.pdf)
 
 We show that Relation Classification models often use shallow heuristics, and create a challenge set of natural sentences where these heuristics don't apply / are misleading, which SOTA models today fail on. 
