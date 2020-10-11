@@ -12,10 +12,6 @@ I am a Ph.D student under the supervision of Prof. Yoav Goldberg at the Natural 
 
 My research interests are mainly in *explainable artificial intelligence* and *neural network interpretability*, with focus on natural language processing. I am also working on *imperfect information learning*, such as positive-unlabeled learning, in the context of NLP.
 
-### Upcoming
-
-* I will be interning (remotely) at AI2's MOSAIC team, Seattle, as a research intern in Fall 2020 (October~January).
-
 ### News - 2020
 
 * October: I've started my remote internship on contrastive explainability at AI2's MOSAIC team.
