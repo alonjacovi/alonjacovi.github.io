@@ -17,6 +17,11 @@ author_profile: true
 
 # Preprints
 
+### *Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI*
+<ins>Alon Jacovi</ins>, Ana Marasović, Tim Miller, Yoav Goldberg  
+[ArXiv](https://arxiv.org/abs/2010.07487)
+  
+We formalize what "trust" and "trustworthiness" means in the context of humans trusting AI (where AI is any "smart" automation which is attributed with social intent by the human). This player is meant as a foundational definition of trust in AI, how to cause it, and how to verify that the trust should exist. 
 
 ### *Aligning Faithful Interpretations with their Social Attribution.*
 <ins>Alon Jacovi</ins>, Yoav Goldberg.  
