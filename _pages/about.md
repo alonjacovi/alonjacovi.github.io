@@ -14,6 +14,7 @@ My research interests are mainly in *explainable artificial intelligence* and *n
 
 ### News
 
+* Oct 2020: I gave a talk about "Formalizing Properties of Interpretability in NLP" at the Data Science Bond seminar, Microsoft.
 * Oct 2020: Uploaded a new paper on [Formalizing Trust in AI](https://arxiv.org/abs/2010.07487).
 * Oct 2020: I've started my internship on contrastive explainability at AI2's MOSAIC team.
 * Sep 2020: [Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data](https://arxiv.org/pdf/2010.03656.pdf) was accepted to EMNLP 2020!
