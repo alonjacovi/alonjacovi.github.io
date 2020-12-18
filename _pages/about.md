@@ -14,6 +14,8 @@ My research interests are mainly in *explainable artificial intelligence* and *n
 
 ### News
 
+* Dec 2020: Two new paper accepts :)) "Aligning Faithful Interpretations with their Social Attribution" to TACL 2020, and "Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI" to FAccT 2021! (camera ready versions soon)
+* Nov 2020: Our paper [Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals](https://arxiv.org/abs/2006.00995) was accepted to TACL 2020!
 * Oct 2020: I gave a talk about "Formalizing Properties of Interpretability in NLP" at the Data Science Bond seminar, Microsoft.
 * Oct 2020: Uploaded a new paper on [Formalizing Trust in AI](https://arxiv.org/abs/2010.07487).
 * Oct 2020: I've started my internship on contrastive explainability at AI2's MOSAIC team.
