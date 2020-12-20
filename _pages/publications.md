@@ -17,6 +17,15 @@ author_profile: true
 
 # Preprints
 
+### *Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning*
+<ins>Alon Jacovi</ins>, Gang Niu, Yoav Goldberg, Masashi Sugiyama.  
+[ArXiv](https://arxiv.org/abs/1910.13339)
+
+We apply state-of-the-art PU learning solutions to large neural models for the document set expansion (DSE) task, finding that they fail - so we propose modifications to PU learning to perform well on large models and small quantity of labeled data, with strong results. We also propose a new method of evaluation DSE models, which is scalable to a large amount of topics. 
+
+
+# Publications
+
 ### *Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI*
 <ins>Alon Jacovi</ins>, Ana Marasović, Tim Miller, Yoav Goldberg  
 [ArXiv](https://arxiv.org/abs/2010.07487)
@@ -29,20 +38,11 @@ We formalize what "trust" and "trustworthiness" means in the context of humans t
 
 An exciting (to me!) new formalization on explanations of artificial model decisions, with highlight explanations as a motivating case-study.
  
-### *When Bert Forgets How To POS: Amnesic Probing of Linguistic Properties and MLM Predictions*
+### *Amnesic Probing: Behavioral Explanations with Amnesic Counterfactuals.*
 Yanai Elazar, Shauli Ravfogel, <ins>Alon Jacovi</ins>, Yoav Goldberg.  
 [ArXiv](https://arxiv.org/abs/2006.00995)
 
 A behavioral, causality-inspired analysis of the linguistic knowledge utilized by masked language models, using nullspace projection to remove the information from the representation and then observe the change in output. 
-
-### *Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning*
-<ins>Alon Jacovi</ins>, Gang Niu, Yoav Goldberg, Masashi Sugiyama.  
-[ArXiv](https://arxiv.org/abs/1910.13339)
-
-We apply state-of-the-art PU learning solutions to large neural models for the document set expansion (DSE) task, finding that they fail - so we propose modifications to PU learning to perform well on large models and small quantity of labeled data, with strong results. We also propose a new method of evaluation DSE models, which is scalable to a large amount of topics. 
-
-
-# Publications
 
 ### *Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data*
 Shachar Rosenman, <ins>Alon Jacovi</ins>, Yoav Goldberg.   
