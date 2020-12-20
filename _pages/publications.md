@@ -28,21 +28,21 @@ We apply state-of-the-art PU learning solutions to large neural models for the d
 
 ### *Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI*
 <ins>Alon Jacovi</ins>, Ana Marasović, Tim Miller, Yoav Goldberg  
-In ACM FAccT 2021.
+In ACM FAccT 2021.  
 [ArXiv](https://arxiv.org/abs/2010.07487)
   
 We formalize what "trust" and "trustworthiness" means in the context of humans trusting AI (where AI is any "smart" automation which is attributed with social intent by the human). This player is meant as a foundational definition of trust in AI, how to cause it, and how to verify that the trust should exist. 
 
 ### *Aligning Faithful Interpretations with their Social Attribution.*
 <ins>Alon Jacovi</ins>, Yoav Goldberg.  
-In TACL 2020.
+In TACL 2020.  
 [ArXiv](https://arxiv.org/abs/2006.01067)
 
 An exciting (to me!) new formalization on explanations of artificial model decisions, with highlight explanations as a motivating case-study.
  
 ### *Amnesic Probing: Behavioral Explanations with Amnesic Counterfactuals.*
 Yanai Elazar, Shauli Ravfogel, <ins>Alon Jacovi</ins>, Yoav Goldberg.  
-In TACL 2020.
+In TACL 2020.  
 [ArXiv](https://arxiv.org/abs/2006.00995)
 
 A behavioral, causality-inspired analysis of the linguistic knowledge utilized by masked language models, using nullspace projection to remove the information from the representation and then observe the change in output. 
