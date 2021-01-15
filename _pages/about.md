@@ -14,6 +14,7 @@ My research interests are mainly in *explainable artificial intelligence* and *n
 
 ### News
 
+* Jan 2021: ["Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning"](https://arxiv.org/abs/1910.13339) has been accepted to EACL 2021 :)
 * Dec 2020: Two new paper accepts :)) "Aligning Faithful Interpretations with their Social Attribution" to TACL 2020, and "Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI" to FAccT 2021! (camera ready versions soon)
 * Nov 2020: Our paper [Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals](https://arxiv.org/abs/2006.00995) was accepted to TACL 2020!
 * Oct 2020: I gave a talk about "Formalizing Properties of Interpretability in NLP" at the Data Science Bond seminar, Microsoft.
