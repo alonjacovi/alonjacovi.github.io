@@ -15,14 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Preprints
-
-### *Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning*
-<ins>Alon Jacovi</ins>, Gang Niu, Yoav Goldberg, Masashi Sugiyama.  
-[ArXiv](https://arxiv.org/abs/1910.13339)
-
-We apply state-of-the-art PU learning solutions to large neural models for the document set expansion (DSE) task, finding that they fail - so we propose modifications to PU learning to perform well on large models and small quantity of labeled data, with strong results. We also propose a new method of evaluation DSE models, which is scalable to a large amount of topics. 
-
 
 # Publications
 
@@ -32,6 +24,13 @@ In ACM FAccT 2021.
 [ArXiv](https://arxiv.org/abs/2010.07487)
   
 We formalize what "trust" and "trustworthiness" means in the context of humans trusting AI (where AI is any "smart" automation which is attributed with social intent by the human). This player is meant as a foundational definition of trust in AI, how to cause it, and how to verify that the trust should exist. 
+
+### *Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning*
+<ins>Alon Jacovi</ins>, Gang Niu, Yoav Goldberg, Masashi Sugiyama.  
+In EACL 2021.  
+[ArXiv](https://arxiv.org/abs/1910.13339)
+
+We apply state-of-the-art PU learning solutions to large neural models for the document set expansion (DSE) task, finding that they fail - so we propose modifications to PU learning to perform well on large models and small quantity of labeled data, with strong results. We also propose a new method of evaluation DSE models, which is scalable to a large amount of topics. 
 
 ### *Aligning Faithful Interpretations with their Social Attribution.*
 <ins>Alon Jacovi</ins>, Yoav Goldberg.  
