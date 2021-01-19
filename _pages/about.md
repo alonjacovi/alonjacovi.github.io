@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student under the supervision of Prof. Yoav Goldberg at the Natural Language Processing lab of Bar Ilan University.
+I am a Ph.D student under the supervision of Prof. Yoav Goldberg at the Natural Language Processing lab of Bar Ilan University. I am also currently interning at the MOSAIC team of the Allen Institue for Artificial Intelligence.
 
 My research interests are mainly in *explainable artificial intelligence* and *neural network interpretability*, with focus on natural language processing. I am also working on *imperfect information learning*, such as positive-unlabeled learning, in the context of NLP.
 
 ### News
 
 * Jan 2021: ["Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning"](https://arxiv.org/abs/1910.13339) has been accepted to EACL 2021 :)
-* Dec 2020: Two new paper accepts :)) "Aligning Faithful Interpretations with their Social Attribution" to TACL 2020, and "Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI" to FAccT 2021! (camera ready versions soon)
+* Dec 2020: Two new paper accepts :)) ["Aligning Faithful Interpretations with their Social Attribution"](https://arxiv.org/abs/2006.01067) to TACL 2020, and ["Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI"](https://arxiv.org/abs/2010.07487) to FAccT 2021! (camera ready versions available)
 * Nov 2020: Our paper [Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals](https://arxiv.org/abs/2006.00995) was accepted to TACL 2020!
 * Oct 2020: I gave a talk about "Formalizing Properties of Interpretability in NLP" at the Data Science Bond seminar, Microsoft.
 * Oct 2020: Uploaded a new paper on [Formalizing Trust in AI](https://arxiv.org/abs/2010.07487).
