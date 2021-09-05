@@ -15,15 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Preprints
+# Publications
+
 
 ### *Contrastive Explanations for Model Interpretability*  
 <ins>Alon Jacovi</ins>, Swabha Swayamdipta, Shauli Ravfogel, Yanai Elazar, Yejin Choi, Yoav Goldberg  
+In EMNLP 2021.  
 [ArXiv](https://arxiv.org/abs/2103.01378)  
 
 A paper about explaining classifier decisions contrastively against alternative decisions.
-
-# Publications
 
 ### *Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI*  
 <ins>Alon Jacovi</ins>, Ana Marasović, Tim Miller, Yoav Goldberg  
