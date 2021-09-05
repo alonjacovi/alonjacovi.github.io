@@ -14,6 +14,7 @@ My research interests are mainly in *explainable artificial intelligence* and *n
 
 ### News
 
+* Aug 2021: ["Contrastive Explanations for Model Interpretability"](https://arxiv.org/abs/2103.01378) has been accepted to EMNLP 2021.
 * Mar 2021: Uploaded new paper: ["Contrastive Explanations for Model Interpretability"](https://arxiv.org/abs/2103.01378) following my internship at AI2, MOSAIC.
 * Jan 2021: ["Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning"](https://arxiv.org/abs/1910.13339) has been accepted to EACL 2021 :)
 * Dec 2020: Two new paper accepts :)) ["Aligning Faithful Interpretations with their Social Attribution"](https://arxiv.org/abs/2006.01067) to TACL 2020, and ["Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI"](https://arxiv.org/abs/2010.07487) to FAccT 2021! (camera ready versions available)
