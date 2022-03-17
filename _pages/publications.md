@@ -15,6 +15,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# Preprints
+
+### *Human Interpretation of Saliency-based Explanation Over Text*  
+Hendrik Schuff*, <ins>Alon Jacovi</ins>*, Heike Adel, Yoav Goldberg, Ngoc Thang Vu.  
+[ArXiv](https://arxiv.org/abs/2201.11569)  
+
+### *Diagnosing AI Explanation Methods with Folk Concepts of Behavior*  
+<ins>Alon Jacovi</ins>, Jasmijn Bastings, Sebastian Gehrmann, Yoav Goldberg, Katja Filippova  
+[ArXiv](https://arxiv.org/abs/2201.11239)  
+
+
 # Publications
 
 
