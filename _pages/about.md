@@ -14,6 +14,9 @@ My research interests are mainly in *explainable artificial intelligence* and *n
 
 ### News
 
+* Mar 2022: Gave a talk at NEC Labs Europe (thanks for inviting me!) :)
+* Jan 2022: Uploaded two new preprints: ["Human Interpretation of Saliency-based Explanation Over Text"](https://arxiv.org/abs/2201.11569), ["Diagnosing AI Explanation Methods with Folk Concepts of Behavior"](https://arxiv.org/abs/2201.11239).
+* Nov 2021: Presented two papers at EMNLP 2021.
 * Aug 2021: ["Contrastive Explanations for Model Interpretability"](https://arxiv.org/abs/2103.01378) has been accepted to EMNLP 2021.
 * Mar 2021: Uploaded new paper: ["Contrastive Explanations for Model Interpretability"](https://arxiv.org/abs/2103.01378) following my internship at AI2, MOSAIC.
 * Jan 2021: ["Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning"](https://arxiv.org/abs/1910.13339) has been accepted to EACL 2021 :)
