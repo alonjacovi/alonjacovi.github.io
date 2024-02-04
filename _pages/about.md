@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student under the supervision of Prof. Yoav Goldberg at the Natural Language Processing lab of Bar Ilan University.
+I received my PhD under the supervision Prof. Yoav Goldberg at the Natural Language Processing lab of Bar Ilan University.
 
-My research interests are mainly in *explainable artificial intelligence* and *neural network interpretability*, with focus on natural language processing. I am also working on *imperfect information learning*, such as positive-unlabeled learning, in the context of NLP.
+My research interests are in *explainable artificial intelligence/neural network interpretability* and *language model evaluation* in natural language processing.
 
 
 
