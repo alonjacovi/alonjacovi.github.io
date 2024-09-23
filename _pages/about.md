@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD under the supervision Prof. Yoav Goldberg at the Natural Language Processing lab of Bar Ilan University.
+I am a Research Scientist at Google. I received my PhD under the supervision Prof. Yoav Goldberg at the Natural Language Processing lab of Bar Ilan University.
 
 My research interests are in *explainable artificial intelligence/neural network interpretability* and *language model evaluation* in natural language processing.
 
